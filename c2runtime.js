@@ -22066,8 +22066,8 @@ cr.behaviors.lunarray_LiteTween = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio,
 	cr.plugins_.Function,
-	cr.plugins_.Sprite,
 	cr.plugins_.Touch,
+	cr.plugins_.Sprite,
 	cr.behaviors.Sin,
 	cr.behaviors.lunarray_LiteTween,
 	cr.system_object.prototype.cnds.OnLayoutStart,

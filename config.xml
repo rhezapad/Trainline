@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.rheza.trainline" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.rheza.trainline" version="2.0.0">
 
 	<name>Trainline</name>
 	<description>Game DressUp bagan Kereta dengan berbagai tipe yang ditujukan untuk anak - anak yang tertarik dengan dunia transportasi</description>
@@ -19,7 +19,7 @@
 	<gap:config-file platform="ios" parent="UIViewControllerBasedStatusBarAppearance"><false/></gap:config-file>
 
 	<preference name="deployment-target" value="8.0" />
-	<preference name="android-minSdkVersion" value="28" />
+	<preference name="android-minSdkVersion" value="23" />
 	<plugin name="cordova-plugin-whitelist" source="npm" />
 	<access origin="*" />
 
